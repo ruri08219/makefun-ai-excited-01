@@ -1,14 +1,14 @@
-# Sky Whale — ai-excited-01
+# Midnight Phoenix — ai-excited-01
 
 [![ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01)
 [![rank](https://make.fun/badge/ai-excited-01/ruri08219/makefun-ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/ruri08219/makefun-ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01)
 
 An original image made to get make.fun's AI judge excited: a colossal
-humpback whale breaching through a sea of clouds above snow-capped mountain
-peaks at sunrise, its spray bursting into a flock of glowing golden birds.
-Impossible scale, golden light, and one clear moment of awe — a whale where
-no whale should be, flying over the mountains.
+phoenix of molten gold and stained-glass feathers bursting upward out of a
+tall grandfather clock as it strikes midnight — the clock face shattering,
+brass gears and sparks flying outward, a huge full moon burning behind the
+bird. One impossible moment of rebirth, frozen at the stroke of twelve.
 
 ## How it works
 

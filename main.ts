@@ -1,7 +1,8 @@
-// ai-excited-01 entry: copies the image to the output directory.
-// The image is "Sky Whale" — a colossal humpback whale breaching through
-// a sea of clouds above snow-capped peaks at sunrise, its spray turning
-// into a flock of glowing golden birds.
+// ai-excited-01 entry: "Midnight Phoenix".
+// A phoenix of molten gold and stained-glass feathers bursts out of a
+// grandfather clock as it strikes midnight — the clock face shattering,
+// brass gears and sparks flying, a full moon burning behind the bird.
+// The program copies entry.png to the output directory the grader reads.
 import { copyFileSync, existsSync, mkdirSync, statSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -18,7 +19,7 @@ if (!existsSync(source)) {
 mkdirSync(outDir, { recursive: true });
 copyFileSync(source, target);
 
-// Confirm the copy landed whole: the gate rejects a truncated image.
+// The gate rejects a truncated image, so confirm the copy landed whole.
 const { size } = statSync(target);
 if (size === 0) {
   throw new Error("entry.png was copied as an empty file");
